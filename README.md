@@ -10,6 +10,7 @@ Changes made via gptengineer.app will be committed to this repo.
 
 If you clone this repo and push changes, you will have them reflected in the GPT Engineer UI.
 
+
 ## Tech stack
 
 This project is built with React with shadcn-ui and Tailwind CSS.
